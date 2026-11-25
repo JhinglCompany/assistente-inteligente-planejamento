@@ -1,0 +1,2 @@
+# assistente-inteligente-planejamento
+Projeto
