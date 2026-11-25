@@ -1,3 +1,5 @@
+link: https://app.notion.com/p/4231049b145481dfa3ede08b6da79ddf
+
 Assistente Inteligente de Planejamento com IA
 
 1. Apresentação do projeto
